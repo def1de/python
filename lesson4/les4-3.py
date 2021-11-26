@@ -1,0 +1,12 @@
+auto=[]
+auto.append('ferrari')
+auto.append('ford')
+auto.append('VAZ')
+auto.append('mitsubisi')
+auto.append('rols-Roys')
+auto.append('BMW')
+auto.append('nissan')
+auto.append('deLorean')
+auto.append('Audi')
+auto.append('Mers')
+print(auto)
